@@ -1,0 +1,75 @@
+<safarimeta fpi="9781492054542" format="audiobook">
+  <title>Product Roadmaps Relaunched (Audio Book)</title>
+  <language>en</language>
+  <edition>1</edition>
+  <rights>Copyright © O'Reilly Media, Inc. </rights>
+  <authorgroup>
+    <author>
+      <firstname>C.</firstname>
+      <othername>Todd</othername>
+      <surname>Lombardo</surname>
+      <contributor_type>author</contributor_type>
+    </author>
+    <author>
+      <firstname>Bruce</firstname>
+      <surname>McCarthy</surname>
+      <order>1</order>
+      <contributor_type>author</contributor_type>
+    </author>
+    <author>
+      <firstname>Evan</firstname>
+      <surname>Ryan</surname>
+      <order>2</order>
+      <contributor_type>author</contributor_type>
+    </author>
+    <author>
+      <firstname>Michael</firstname>
+      <surname>Connors</surname>
+      <order>3</order>
+      <contributor_type>author</contributor_type>
+    </author>
+  </authorgroup>
+  <pagenums>21944</pagenums>
+  <pubdate>March 28, 2019</pubdate>
+  <publisher>
+    <publishername>O'Reilly Media, Inc.</publishername>
+    <imprintname>O'Reilly Media, Inc.</imprintname>
+  </publisher>
+  <safari-classification>
+    <class scheme="safari-video-classification">course</class>
+  </safari-classification>
+  <description-short>
+    <cdata><![CDATA[<div><p>A good product roadmap is one of the most important and influential documents an organization can develop, publish, and continuously update. In fact, this one document can steer an entire organization when it comes to delivering on company strategy.</p><p>This practical guide teaches you how to create an effective product roadmap, and demonstrates how to use the roadmap to align stakeholders and prioritize ideas and requests. With it, you’ll learn to communicate how your products will make your customers and organization successful.</p><p>Whether you're a product manager, product owner, business analyst, program manager, project manager, scrum master, lead developer, designer, development manager, entrepreneur, or business owner, this audio book will show you how to:</p><ul><li>Articulate an inspiring vision and goals for your product</li><li>Prioritize ruthlessly and scientifically</li><li>Protect against pursuing seemingly good ideas without evaluation and prioritization</li><li>Ensure alignment with stakeholders</li><li>Inspire loyalty and over­-delivery from your team</li><li>Get your sales team working with you instead of against you</li><li>Bring a user­ and buyer-­centric approach to planning and decision-making</li><li>Anticipate opportunities and stay ahead of the game</li><li>Publish a comprehensive roadmap without over­committing</li></ul></div>]]></cdata>
+  </description-short>
+  <msrp>199.00</msrp>
+  <points royalty="all">1</points>
+  <aliases/>
+  <video>
+    <clip seq="1" width="None" height="None" linkid="video324588" content_type="None" bitrate="None" codec="None" audio_codec="None" clip_size="None" duration="0:00:00" preview="no" title="Opening Credits" clip_md5_hash="None" clip_cloud_path="" clip_cloud_bucket="">
+      <description></description>
+    </clip>
+    <clip seq="2" width="None" height="None" linkid="video324589" content_type="None" bitrate="None" codec="None" audio_codec="None" clip_size="None" duration="0:00:00" preview="no" title="Dear Roadmap Letters" clip_md5_hash="None" clip_cloud_path="" clip_cloud_bucket="">
+      <description></description>
+    </clip>
+    <clip seq="3" width="None" height="None" linkid="video324590" content_type="None" bitrate="None" codec="None" audio_codec="None" clip_size="None" duration="0:00:00" preview="no" title="Foreword" clip_md5_hash="None" clip_cloud_path="" clip_cloud_bucket="">
+      <description></description>
+    </clip>
+  </video>
+  <tableofcontents fpi="9781492054542">
+        <chapter id="video324588" snippet-id="" seq="1">
+		    <title>Opening Credits</title>
+		    <section role="clip-description">None</section>
+		    <para/>
+		</chapter>
+        <chapter id="video324589" snippet-id="" seq="2">
+		    <title>Dear Roadmap Letters</title>
+		    <section role="clip-description">None</section>
+		    <para/>
+		</chapter>
+        <chapter id="video324590" snippet-id="" seq="3">
+		    <title>Foreword</title>
+		    <section role="clip-description">None</section>
+		    <para/>
+		</chapter>
+</tableofcontents>
+</safarimeta>
