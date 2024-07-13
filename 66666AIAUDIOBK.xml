@@ -1,36 +1,24 @@
-<safarimeta fpi="9781492054542" format="audiobook">
-  <title>Product Roadmaps Relaunched (Audio Book)</title>
+<safarimeta fpi="66666AIAUDIOBK" format="audiobook">
+  <title>AI Generated Audiobook test (Audio Book)</title>
   <language>en</language>
   <edition>1</edition>
   <rights>Copyright © O'Reilly Media, Inc. </rights>
   <authorgroup>
     <author>
-      <firstname>C.</firstname>
-      <othername>Todd</othername>
-      <surname>Lombardo</surname>
+      <firstname>Andrew</firstname>
+      <othername>OD1</othername>
+      <surname>Odewahn</surname>
       <contributor_type>author</contributor_type>
     </author>
     <author>
-      <firstname>Bruce</firstname>
-      <surname>McCarthy</surname>
+      <firstname>Leon</firstname>
+      <surname>Kowalski</surname>
       <order>1</order>
-      <contributor_type>author</contributor_type>
-    </author>
-    <author>
-      <firstname>Evan</firstname>
-      <surname>Ryan</surname>
-      <order>2</order>
-      <contributor_type>author</contributor_type>
-    </author>
-    <author>
-      <firstname>Michael</firstname>
-      <surname>Connors</surname>
-      <order>3</order>
       <contributor_type>author</contributor_type>
     </author>
   </authorgroup>
   <pagenums>21944</pagenums>
-  <pubdate>March 28, 2019</pubdate>
+  <pubdate>July 13, 2024</pubdate>
   <publisher>
     <publishername>O'Reilly Media, Inc.</publishername>
     <imprintname>O'Reilly Media, Inc.</imprintname>
@@ -55,7 +43,7 @@
       <description></description>
     </clip>
   </video>
-  <tableofcontents fpi="9781492054542">
+  <tableofcontents fpi="66666AIAUDIOBK">
         <chapter id="video324588" snippet-id="" seq="1">
 		    <title>Opening Credits</title>
 		    <section role="clip-description">None</section>
